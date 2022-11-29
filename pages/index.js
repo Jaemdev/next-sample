@@ -16,7 +16,7 @@ export default function Home() {
           property="og:url"
           content="https://next-sample-psi-two.vercel.app/"
         />
-        <meta property="og:image" content="/public/dog.jpg" />
+        <meta property="og:image" content="/dog.jpg" />
         <meta property="og:site_name" content="jaemDog" />
         <meta property="og:description" content="next seo test" />
       </Head>
