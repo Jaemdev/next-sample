@@ -23,6 +23,11 @@ export default function Home() {
         <meta property="og:site_name" content="검이색렇을게위작해성" />
         <meta property="og:description" content="검이색렇을게위작해성" />
         <meta name="robots" content="index,follow" />
+        <meta name="keywords" content="검이색렇을게위작해성" />
+        <meta name="description" content="검이색렇을게위작해성" />
+        <meta name="author" content="jaemdev" />
+        <meta name="content-language" content="kr" />
+        <meta name="content-language" content="en" />
       </Head>
 
       <footer className={styles.footer}>
