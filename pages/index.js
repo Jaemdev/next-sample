@@ -22,6 +22,7 @@ export default function Home() {
         <meta property="og:image" content="/dog.jpg" />
         <meta property="og:site_name" content="검이색렇을게위작해성" />
         <meta property="og:description" content="검이색렇을게위작해성" />
+        <meta name="robots" content="ALL" />
       </Head>
 
       <footer className={styles.footer}>
