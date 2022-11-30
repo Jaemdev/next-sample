@@ -32,6 +32,11 @@ export default function Home() {
           content="harborx-jaemin, harborx-blockchain, 하버블록체인"
         />
 
+        <meta
+          name="google-site-verification"
+          content="E9kmvarRHlIMtPs8fPk4X6_KMpy8s59uYveiGZjGmc4"
+        />
+
         <meta name="reply-to" content="lemon__96@naver.com" />
         <meta name="author" content="jaemdev" />
         <meta name="content-language" content="kr" />
