@@ -36,6 +36,10 @@ export default function Home() {
           name="google-site-verification"
           content="E9kmvarRHlIMtPs8fPk4X6_KMpy8s59uYveiGZjGmc4"
         />
+        <meta
+          name="naver-site-verification"
+          content="a3205af1c3dc0b7172e687c59b5ee49914283bd9"
+        />
 
         <meta name="reply-to" content="lemon__96@naver.com" />
         <meta name="author" content="jaemdev" />
